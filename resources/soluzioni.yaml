@@ -1,0 +1,245 @@
+住:
+ :ita: [ abitare, vivere a casa, abitazione ]
+ :on: [ ちゅう, ぢゅう, じゅう ]
+ :kun: [ すま, すむ, ずま ]
+
+所:
+ :ita: [ posto, luogo, parte, punto ]
+ :on: [ しょ ]
+ :kun: [ ところ, とこ, どころ ]
+
+京:
+ :ita: [ capitale, metropoli, 10 quadriglioni, città ]
+ :on: [ けい, きん, きょう ]
+ :kun: [ みやこ ]
+
+都:
+ :ita: [ capitale, città, centro economico e politico ]
+ :on: [ と, つ ]
+ :kun: [ みやこ ]
+
+府:
+ :ita: [ prefettura, magazzino, ufficio pubblico ]
+ :on: [ ふ ]
+
+県:
+ :ita: [ provincia, prefettura, antica suddivisione amministrativa ]
+ :on: [ けん ]
+ :kun: [ あがた ]
+
+市:
+ :ita: [ mercato, città, traduzione ]
+ :on: [ し ]
+ :kun: [ いち ]
+
+区:
+ :ita: [ distretto, quartiere, zona ]
+ :on: [ こう, おう, く ]
+
+町:
+ :ita: [ città, quartiere, traduzione ]
+ :on: [ ちょう ]
+ :kun: [ まち ]
+
+村:
+ :ita: [ villaggio, traduzione ]
+ :on: [ そん ]
+ :kun: [ むら ]
+
+明:
+ :ita: [ chiaro, luminoso, luce, illuminazione ]
+ :on: [ めい, みん, みょう ]
+ :kun: [ あけ, あか, あき, あく ]
+
+暗:
+ :ita: [ buio, scuro, oscurità, segretamente ]
+ :on: [ あん ]
+ :kun: [ くらい, くれ ]
+
+遠:
+ :ita: [ lontano, distante, allontanare ]
+ :on: [ えん, おん ]
+ :kun: [ とおい ]
+
+近:
+ :ita: [ vicino, paraggi, stretto(relazione) ]
+ :on: [ きん, こん ]
+ :kun: [ ちかい ]
+
+強:
+ :ita: [ forte, diventare, rendere, costringere ]
+ :on: [ きょう, ごう ]
+ :kun: [ つよい, しいる, こわい ]
+
+弱:
+ :ita: [ debole, fragile, indebolire, punto debole ]
+ :on: [ じゃく ]
+ :kun: [ よわい ]
+
+重:
+ :ita: [ pesante, serio, apprezzare, -plice ]
+ :on: [ じゅう, ちょう ]
+ :kun: [ おもい, え, かさ ]
+
+軽:
+ :ita: [ leggero, trascurare, sottovalutare ]
+ :on: [ けい ]
+ :kun: [ かるい, かろ ]
+
+太:
+ :ita: [ grosso, di alto rango, profondo, ingrassare ]
+ :on: [ たい, た ]
+ :kun: [ ふとい ]
+
+細:
+ :ita: [ sottile, minuto, piccolo, frugale ]
+ :on: [ さい ]
+ :kun: [ ほそい, こまかい ]
+
+特:
+ :ita: [ speciale, traduzione ]
+ :on: [ とく ]
+
+別:
+ :ita: [ diverso, altro, separarsi ]
+ :on: [ べつ ]
+ :kun: [ わ, わか, わけ ]
+
+有:
+ :ita: [ esserci, avere, possesso, tutti_ogni ]
+ :on: [ ゆう, う ]
+ :kun: [ あ, ある ]
+
+便:
+ :ita: [ comodo, utile, convenienza, vantaggio ]
+ :on: [ べん, びん ]
+ :kun: [ たより, よすが ]
+
+利:
+ :ita: [ profitto, beneficio, effetto, vantaggio ]
+ :on: [ り ]
+ :kun: [ り, きく ]
+
+不:
+ :ita: [ no, non, negazione, cose negative ]
+ :on: [ ふ, ぶ ]
+
+切:
+ :ita: [ tagliare, urgente, pressanti, opprimente ]
+ :on: [ せつ, さい ]
+ :kun: [ きり, ぎり, せつ ]
+
+元:
+ :ita: [ origine, inizio, ex, causa in passato ]
+ :on: [ げん, がん ]
+ :kun: [ もと ]
+
+好:
+ :ita: [ amare, buono, gradimento, piacere ]
+ :on: [ こう ]
+ :kun: [ このむ, すく, ずく, いい, よい ]
+
+急:
+ :ita: [ emergente, affrettarsi, urgenza, spazzientirsi ]
+ :on: [ きゅう ]
+ :kun: [ いそぐ ]
+
+低:
+ :ita: [ basso, abbassarsi, umile, abbassare ]
+ :on: [ てい ]
+ :kun: [ ひくい ]
+
+広:
+ :ita: [ ampio, largo, vasto, spazioso ]
+ :on: [ こう ]
+ :kun: [ ひろい ]
+
+短:
+ :ita: [ corto, breve, insufficente, scarso ]
+ :on: [ たん ]
+ :kun: [ みじかい ]
+
+良:
+ :ita: [ bello, buono, traduzione ]
+ :on: [ りょう ]
+ :kun: [ よい, いい ]
+
+悪:
+ :ita: [ cattivo, nocivo, illecito, male ]
+ :on: [ あく, お ]
+ :kun: [ わるい, にくい, あし, ああ, いずく ]
+
+正:
+ :ita: [ esatto, onesto, regolare, giusto ]
+ :on: [ せい, しょう ]
+ :kun: [ ただしい, まさ ]
+
+変:
+ :ita: [ strano, cambiare, mutare, trasformazione ]
+ :on: [ へん ]
+ :kun: [ かわる, へん, かえる ]
+
+赤:
+ :ita: [ rosso, nudo, sincerità, comunismo ]
+ :on: [ せき, しゃく ]
+ :kun: [ あかい ]
+
+青:
+ :ita: [ blu_azzurro, verde, giovane, immaturo ]
+ :on: [ せい, しょう ]
+ :kun: [ あおい ]
+
+黒:
+ :ita: [ nero, annerirsi, oscurarsi, scuro ]
+ :on: [ こく ]
+ :kun: [ くろい ]
+
+英:
+ :ita: [ inglese, inghilterra, traduzione ]
+ :on: [ えい ]
+ :kun: [ はなぶさ ]
+
+画:
+ :ita: [ immagine, pittura, pennellata ]
+ :on: [ が, かく, かい, え ]
+ :kun: [ えがく, かくする, はかる ]
+
+音:
+ :ita: [ suono, rumore, traduzione ]
+ :on: [ おん, いん, のん ]
+ :kun: [ おと, ね ]
+
+楽:
+ :ita: [ musica, alleviare, traduzione ]
+ :on: [ がく, らく, ごう ]
+ :kun: [ たのしい, このむ ]
+
+歌:
+ :ita: [ canzone, cantare, traduzione ]
+ :on: [ か ]
+ :kun: [ うた, うたう ]
+
+写:
+ :ita: [ foto, fotografia, copia, descrizione ]
+ :on: [ しゃ, じゃ ]
+ :kun: [ うつ ]
+
+真:
+ :ita: [ vero, verità, setta buddista ]
+ :on: [ しん ]
+ :kun: [ ま, まこと ]
+
+旅:
+ :ita: [ viaggio, traduzione ]
+ :on: [ りょ ]
+ :kun: [ たび ]
+
+世:
+ :ita: [ mondo, generazione, società ]
+ :on: [ せい, せ, そう ]
+ :kun: [ よ, さんじゅう ]
+
+界:
+ :ita: [ mondo, traduzione ]
+ :on: [ かい ]
+
